@@ -4,7 +4,7 @@ This API provides endpoints for managing students, teachers, and courses in an e
 Base URL
 /api
 
-Course Management Endpoints
+<h1>Course Management Endpoints<h1>
 1. Add Course
    POST /courses
    Creates a new course in the system.

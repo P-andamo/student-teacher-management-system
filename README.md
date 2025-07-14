@@ -3,17 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Student-Teacher Management API Documentation</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; background-color: #f9f9f9; }
-    h1 { color: #2c3e50; border-bottom: 2px solid #ccc; padding-bottom: 0.2em; }
-    h2 { color: #34495e; margin-top: 40px; }
-    h3 { color: #2d3436; }
-    pre { background: #ecf0f1; padding: 10px; border-left: 4px solid #2980b9; }
-    code { font-family: Consolas, monospace; }
-    .section { margin-bottom: 30px; }
-    .endpoint { background-color: #fff; padding: 20px; border-radius: 6px; box-shadow: 0 0 10px rgba(0,0,0,0.05); }
-  </style>
 </head>
 <body>
 
